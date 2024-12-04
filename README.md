@@ -25,13 +25,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaovBenjamin&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
----
-
-## 🐍 Contribuições do GitHub
-
-![Snake animation](https://github.com/JoaovBenjamin/JoaovBenjamin/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📫 Como me encontrar  
 
