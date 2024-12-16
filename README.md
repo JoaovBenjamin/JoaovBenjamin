@@ -33,4 +33,4 @@
 
 ---
 
-⚡ **"Sempre em busca de inovação e crescimento, vamos construir algo incrível juntos!"**  
+⚡ **Sempre em busca de inovação e crescimento, vamos construir algo incrível juntos!**  
