@@ -8,7 +8,7 @@
 
 💻 Atualmente, trabalho com tecnologias como:  
 - **Front-End:** React.js, Next.js, Tailwind, Styled-Components  
-- **Back-End:** Java, Spring Boot, APIs Restful  
+- **Back-End:** Java, Spring Boot, APIs Restful, C#  
 - **Mobile:** React Native, Expo  
 - **Banco de Dados:** SQL, MySQL, MongoDB  
 
